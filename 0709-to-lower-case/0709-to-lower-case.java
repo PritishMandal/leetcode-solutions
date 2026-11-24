@@ -12,6 +12,6 @@ class Solution {
 
             ans = ans + ch;
         }
-    return ans;
+         return ans;
     }
 }
